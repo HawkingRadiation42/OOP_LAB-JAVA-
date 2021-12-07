@@ -1,0 +1,15 @@
+class Shrey{
+        void display1(){
+                System.out.println("Shrey khandelwal");
+                System.out.println("registeration number:209303098:");
+                System.out.println("branch: CCE");
+        }
+}
+class Main{
+        public static void main(String[] args){
+                Shrey obj = new Shrey();
+                obj.display1();
+        }
+}
+
+
